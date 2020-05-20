@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553198092 source:c:\users\acer\documents\cpp\supermarket billing\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+
